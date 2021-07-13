@@ -1,4 +1,7 @@
 # IT-Vedant-python-project_Fashion-Store-Management
+
+Please run the main folder on local machine as mysql connection is required. Also, please install MySQL prior to execution.
+
 Please use the following commands to install the depended libraries:
 
 windows command window
