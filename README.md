@@ -14,4 +14,4 @@ Anaconda command prompt
 conda install mysql
 conda install pandas
 
-..more will be updated as code is corrected.
+..more will be updated as code is updated.
