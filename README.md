@@ -13,6 +13,7 @@ python -m pip install pandas
 Anaconda command prompt
 
 conda install mysql
+
 conda install pandas
 
 ..more will be updated as code is updated.
